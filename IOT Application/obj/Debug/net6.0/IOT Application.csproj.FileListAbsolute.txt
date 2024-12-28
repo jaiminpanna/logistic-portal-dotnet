@@ -1,0 +1,136 @@
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\appsettings.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.exe
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.deps.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.runtimeconfig.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.pdb
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Dapper.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.csproj.AssemblyReference.cache
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.AssemblyInfoInputs.cache
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.AssemblyInfo.cs
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.csproj.CoreCompileInputs.cache
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.IOT Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.build.IOT Application.props
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IOT Application.props
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IOT Application.props
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\scopedcss\bundle\IOT Application.styles.css
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.csproj.CopyComplete
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\refint\IOT Application.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.pdb
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.genruntimeconfig.cache
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\ref\IOT Application.dll
+C:\Users\jaimin.panna.SIPL\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.exe
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.deps.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.runtimeconfig.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\IOT Application.pdb
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Dapper.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.IOT Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.build.IOT Application.props
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IOT Application.props
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IOT Application.props
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\scopedcss\bundle\IOT Application.styles.css
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.csproj.CopyComplete
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\refint\IOT Application.dll
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.pdb
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\IOT Application.genruntimeconfig.cache
+C:\Users\Admin\source\repos\IOT Application\IOT Application\obj\Debug\net6.0\ref\IOT Application.dll

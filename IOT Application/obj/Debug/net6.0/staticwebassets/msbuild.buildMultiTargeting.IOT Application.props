@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IOT Application.props" />
+</Project>
